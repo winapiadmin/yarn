@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_6148 net/minecraft/world/RedstoneConstants
+	FIELD field_52685 VALUE_BITS I
+	FIELD field_52686 VALUE_MASK I
+	FIELD field_31827 MIN_SIGNAL I
+	FIELD field_31828 MAX_SIGNAL I
+	FIELD field_31829 NO_SIGNAL I
