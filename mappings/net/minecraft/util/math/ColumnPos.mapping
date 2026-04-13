@@ -1,6 +1,9 @@
 CLASS net/minecraft/class_2265 net/minecraft/util/math/ColumnPos
 	FIELD comp_638 x I
 	FIELD comp_639 z I
+	FIELD field_29757 COORD_BITS I
+	FIELD field_29758 COORD_MASK I
+	
 	METHOD comp_638 x ()I
 	METHOD comp_639 z ()I
 	METHOD equals (Ljava/lang/Object;)Z
