@@ -205,8 +205,15 @@ CLASS net/minecraft/class_1297 net/minecraft/entity/Entity
 	FIELD field_36331 groundCollision Z
 	FIELD field_38931 trackedPosition Lnet/minecraft/class_7422;
 	FIELD field_44784 supportingBlockPos Ljava/util/Optional;
+	FIELD field_44870 DELTA_AFFECTED_BY_BLOCKS_BELOW_0_2 F
+	FIELD field_44871 DELTA_AFFECTED_BY_BLOCKS_BELOW_0_5 D
+	FIELD field_44872 DELTA_AFFECTED_BY_BLOCKS_BELOW_1_0 D
 	FIELD field_44873 forceUpdateSupportingBlockPos Z
 	FIELD field_47742 stateAtPos Lnet/minecraft/class_2680;
+	FIELD field_49791 CONTENTS_SLOT_INDEX I
+	FIELD field_49073 BASE_SAFE_FALL_DISTANCE I
+	FIELD field_61895 MAX_BLOCK_ITERATIONS_ALONG_TRAVEL_PER_TICK I
+	FIELD field_61894 MAX_MOVEMENT_RESETTING_TRACE_DISTANCE D
 	FIELD field_51994 portalManager Lnet/minecraft/class_9787;
 	FIELD field_54947 queuedCollisionChecks Ljava/util/ArrayDeque;
 	FIELD field_54948 collidedBlockPositions Lit/unimi/dsi/fastutil/longs/LongSet;
