@@ -1,0 +1,4 @@
+CLASS net/minecraft/class_6567 net/minecraft/world/gen/densityfunction/DensityConstants
+	FIELD field_34584 SURFACE D
+	FIELD field_34585 UNRECOVERABLY_DENSE D
+	FIELD field_34586 UNRECOVERABLY_THIN D
